@@ -1,6 +1,4 @@
-import log from 'debug';
-
-const isPalindrome = (word: string) => {
+export const isPalindrome = (word: string) => {
   let wordLength = Math.floor(word.length / 2);
   for (let i = 0; i < wordLength; i++) {
     const fristLetter = word[i];
@@ -12,10 +10,6 @@ const isPalindrome = (word: string) => {
   return true;
 };
 
-const isPalindromeTunned = (word: string) => {
+export const isPalindromeTunned = (word: string) => {
   return word === word.split('').reverse().join('');
 };
-
-
-log.log(isPalindrome('arara'));
-log.log(isPalindromeTunned('arara'));

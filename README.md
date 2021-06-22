@@ -1,7 +1,7 @@
 <h1 align='center'>Palindrome</h1>
 
 <div align='center'>
-  ![Palindrome]()
+  <img alt="Palindrome Logo" width='300' src='https://raw.githubusercontent.com/AlvaroIsrael/palindrome/main/src/assets/palindrome.gif'/>
   <br>
 </div>
 
@@ -11,6 +11,7 @@
   <a href='#-challenge'>Challenge</a> •
   <a href='#-technologies-used'>Technologies Used</a> •
   <a href='#-how-to-use'>How To Use</a> •
+  <a href='#-how-to-test'>How To Test</a> •
   <a href='#-license'>License</a>
 </div>
 
@@ -46,6 +47,19 @@ $ yarn install
 
 # Run the app
 $ yarn start
+```
+
+## 🎯 How to Test
+
+```bash
+# Open up terminal and run
+$ yarn test
+```
+
+Code coverage can be found at:
+
+```
+./palindrome/coverage/lcov-report/index.html
 ```
 
 ## 🧾 License
