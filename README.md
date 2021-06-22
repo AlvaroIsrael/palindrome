@@ -13,9 +13,9 @@
 
 ## 💡 Challenge
 
-Uma palavra é dita palíndroma se ela é simétrica, isto é, se a escrevermos de trás para frente, o resultado é o mesmo.
-Por exemplo, 'ARARA' é palíndroma, mas 'ARAR' não é. Escreva um pequeno programa, que determina se uma palavra é
-palíndroma.
+Any given word is said to be a palindrome if it is simetric, which mean when written in reverse, from the last letter to
+the frist one, the result word is the same as the original one. For example: 'MADAM' is a palindrome, but 'MAD' is not.
+Write a little computer program to determine if a word is a palindrome or not.
 
 ## 🏆 Technologies Used
 
