@@ -2,7 +2,6 @@
 
 <div align='center'>
   <img alt="Palindrome Logo" width='300' src='https://raw.githubusercontent.com/AlvaroIsrael/palindrome/main/src/assets/palindrome.gif'/>
-  <br>
 </div>
 
 <h4 align='center'>🤘🏻Because metal sign is also a palindrome!</h4>
@@ -15,7 +14,7 @@
   <a href='#-license'>License</a>
 </div>
 
-<p align='center'>Made with ❤️ by Alvaro Israel 👏🏻 <a href='https://www.linkedin.com/in/alvaroisraeldesenvolvedor/'>Get in Touch!</a></p>
+<h4 align='center'>Made with ❤️ by Alvaro Israel 👏🏻 <a href='https://www.linkedin.com/in/alvaroisraeldesenvolvedor/'>Get in Touch!</a></h4>
 
 ## 💡 Challenge
 
@@ -56,7 +55,7 @@ $ yarn start
 $ yarn test
 ```
 
-Code coverage can be found at:
+Code coverage html report can be found at:
 
 ```
 ./palindrome/coverage/lcov-report/index.html
