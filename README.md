@@ -1,15 +1,20 @@
-# Palindrome
+<h1 align='center'>Palindrome</h1>
 
-<h4 align="center">🤘🏻Because metal sign is also a palindrome!</h4>
+<div align='center'>
+  ![Palindrome]()
+  <br>
+</div>
 
-<p align="center">
-  <a href="#-challenge">Challenge</a> •
-  <a href="#-technologies-used">Technologies Used</a> •
-  <a href="#-how-to-use">How To Use</a> •
-  <a href="#-license">License</a>
-</p>
+<h4 align='center'>🤘🏻Because metal sign is also a palindrome!</h4>
 
-<p align="center">Made with ❤️ by Alvaro Israel 👏🏻 <a href="https://www.linkedin.com/in/alvaroisraeldesenvolvedor/">Get in Touch!</a></p>
+<div align='center'>
+  <a href='#-challenge'>Challenge</a> •
+  <a href='#-technologies-used'>Technologies Used</a> •
+  <a href='#-how-to-use'>How To Use</a> •
+  <a href='#-license'>License</a>
+</div>
+
+<p align='center'>Made with ❤️ by Alvaro Israel 👏🏻 <a href='https://www.linkedin.com/in/alvaroisraeldesenvolvedor/'>Get in Touch!</a></p>
 
 ## 💡 Challenge
 
